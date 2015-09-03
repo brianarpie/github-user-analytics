@@ -1,0 +1,13 @@
+
+rect.bar {
+  fill: orange;
+}
+
+.axis {
+  stroke: grey;
+  stroke-width: 1;
+}
+
+.tick {
+  stroke-width: 0.5;
+}
