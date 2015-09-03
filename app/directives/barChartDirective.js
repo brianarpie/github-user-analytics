@@ -134,7 +134,7 @@
           data: "=",
           title: "="
         },
-        templateUrl: "app/pages/_bar_chart_directive.html"
+        templateUrl: "app/pages/bar_chart_directive.html"
       }
 
     }
